@@ -16,6 +16,10 @@ public class demo2
 		System.out.println("M3 method");
 	}
 	
+	public void m5() 
+	{
+		System.out.println("M3 method");
+	}
 	public static void main(String[] args) 
 	{
 		System.out.println("Hello this is git program");
@@ -23,6 +27,6 @@ public class demo2
 			a.m1();
          	a.m2();
          	a.m3();
-	
+		a.m5();
 	
 }}
