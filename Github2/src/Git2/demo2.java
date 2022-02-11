@@ -19,11 +19,10 @@ public class demo2
 	public static void main(String[] args) 
 	{
 		System.out.println("Hello this is git program");
-	
-	
-	demo2 a=new demo2();
+	        demo2 a=new demo2();
 			a.m1();
-	a.m2();
+         	a.m2();
+         	a.m3();
 	
 	
 }}
