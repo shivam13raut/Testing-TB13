@@ -24,6 +24,10 @@ public class demo2
 	{
 		System.out.println("branch1method");
 	}
+	public void branch2() 
+	{
+		System.out.println("branch1method");
+	}
 	public static void main(String[] args) 
 	{
 		System.out.println("Hello this is git program");
@@ -32,6 +36,7 @@ public class demo2
          	a.m2();
          	a.m3();
 		a.m5();
+		a.branch1();
 		a.branch1();
 		
 }}
